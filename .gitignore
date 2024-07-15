@@ -1,0 +1,5 @@
+.env
+amazon_venv
+fake_data_downloaded.csv
+fake_data.csv
+__pycache__
